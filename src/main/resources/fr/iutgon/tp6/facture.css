@@ -1,0 +1,7 @@
+:negatif {
+    -fx-text-fill: darkred;
+    -fx-background-color: lightsalmon;
+}
+.table-cell:hover {
+    -fx-background-color: magenta;
+}
